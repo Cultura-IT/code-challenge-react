@@ -34,7 +34,7 @@ No hay restricciones en cuanto a la disposición de los datos o las transiciones
 En la búsqueda de nuevos usuarios o blogs se busca que la aplicación haga hincapié en el uso de los estilos para hacerla atractiva a la vista general.
 
 ### Cómo presentar la solución
-Cuando consideres que el problema está resuelto, debes subirlo a un repositorio de tu elección y enviarnos un mail a fsare@culturait.com.ar con el link del repositorio adjunto, además podes agregar cualquier comentario que creas correspondiente.
+Cuando consideres que el problema está resuelto, debes subirlo a un repositorio privado de tu elección, y agregarme como colaborador (usuario: fsfederico); enviarnos un mail a fsare@culturait.com.ar con el link de acceso, además podes agregar cualquier comentario que creas correspondiente.
 
 
 **Happy hacking!**
